@@ -1,4 +1,4 @@
-# Information on using github for the collection of eo4geo training material content 
+## Information on using github for the collection of eo4geo training material content 
 
 The following guidelines apply to eo4geo partners who contribute training material content on the basis of the Reveal JS template: 
 
